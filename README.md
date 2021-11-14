@@ -1,2 +1,2 @@
 # CoreX
-Entity'e tanımlanan attributlar ile ekranları oluşturan uygulama
+Entity'e tanımlanan attributlar ile ekranları oluşturan uygulama.
